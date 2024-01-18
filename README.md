@@ -1,5 +1,12 @@
 # node-training
 
+## minimist - анализатора аргументов
+> *  npm i minimist --save
+
+```node
+    const minimist = require('minimist');
+```
+
 ## Путь [https://nodejs.org/api/path.html#path](https://nodejs.org/api/path.html#path)
 Модуль node:path предоставляет утилиты для работы с путями к файлам и каталогам. К нему можно получить доступ с помощью:
 
